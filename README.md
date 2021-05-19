@@ -13,3 +13,7 @@ To install pip packages with pip use :
 
 Troubleshooting
 I've been using Python 3.9.0 and had some issues with the script running because I was using pytube3 from pip. After removing that and installing 'pytube' from pip there were no more problems.
+
+Quickguide
+From terminal : 
+  python YTX.py videoURL -c 01:02 01:32
